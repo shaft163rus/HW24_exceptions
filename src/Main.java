@@ -13,8 +13,6 @@ public class Main {
             e.printStackTrace();
         }
 
-
-
     }
 
     public static void checkPassword(String login, String password, String confirmPassword) throws WrongLoginException, WrongPasswordException {
